@@ -1,0 +1,9 @@
+{
+	"name": "shivambharti",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96dc9184-a2d7-416c-87f3-d0afb2789439",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
